@@ -1,0 +1,48 @@
+    #title {
+        text-align: center;
+        background-position: center;
+        background-size: cover;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-size: 60px;
+        padding-top: 24px;
+    }
+    
+    * {
+        margin: 24px;
+        padding: 0px;
+    }
+    
+    #img-caption {
+        text-align: center;
+        margin-top: 24px;
+        font-size: 20px;
+    }
+    
+    #img-div {
+        text-align: center;
+        display: block;
+        filter: grayscale(100%);
+        width: 100%;
+    }
+    
+    img {
+        padding-top: 10px;
+        height: auto;
+        max-width: 530px;
+        display: block;
+    }
+    
+    Section {
+        background: rgb(230, 255, 255, 0.1);
+        padding: 2.5rem 2.5rem;
+        border-radius: 2rem;
+        width: 100%;
+        margin: auto;
+    }
+    
+    Section header {
+        text-transform: uppercase;
+        font-weight: bold;
+        font-size: 30px;
+        letter-spacing: 20px;
+    }
